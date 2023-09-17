@@ -2,7 +2,7 @@
     {
       "id": "123456",
       "cover": "https://i.ibb.co/DfnSnWX/programming-script-text-coding-word.jpg",
-      "title": "The Secret Garden",
+      "title": "Programming",
       "author": "Alice Smith",
       "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
       "posted_date": "2023-09-17",
@@ -12,7 +12,7 @@
     {
       "id": "789012",
       "cover": "https://i.ibb.co/6rCW5Hn/development-growth-progress-icon-concept.jpg",
-      "title": "The Lost Treasure",
+      "title": "Development",
       "author": "Bob Johnson",
       "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
       "posted_date": "2023-09-16",
@@ -22,7 +22,7 @@
     {
       "id": "345678",
       "cover": "https://i.ibb.co/PFLHtNL/server-technology-online-internet-database-concept.jpg",
-      "title": "Time Travelers",
+      "title": "Server",
       "author": "Ella Davis",
       "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
       "posted_date": "2023-09-15",
@@ -32,7 +32,7 @@
     {
       "id": "901234",
       "cover": "https://i.ibb.co/nCDKsVb/marketing-advertising-commercial-strategy-concept.jpg",
-      "title": "Cooking Magic",
+      "title": "Marketing",
       "author": "Sam Williams",
       "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
       "posted_date": "2023-09-14",
@@ -42,8 +42,8 @@
     {
       "id": "567890",
       "cover": "https://i.ibb.co/gVXdy1m/business-network.jpg",
-      "title": "Under the Stars",
-      "author": "Lily Brown",
+      "title": "Network",
+      "author": "Ornok hossain Arshan",
       "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
       "posted_date": "2023-09-13",
       "reading_time": 50 ,
