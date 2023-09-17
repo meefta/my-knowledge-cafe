@@ -1,5 +1,8 @@
 
 import './App.css'
+import Blogs from './Component/Blogs/Blogs'
+import Bookmarks from './Component/Bookmarks/Bookmarks'
+import Header from './Component/Header/Header'
 
 function App() {
   
@@ -7,7 +10,11 @@ function App() {
   return (
     <>
       
-      <h1 className='text-6xl'>Knowledge Cafe</h1>
+      <Header></Header>
+      <div className='md:flex'>
+      <Blogs></Blogs>
+      <Bookmarks></Bookmarks>
+      </div>
       
     </>
   )

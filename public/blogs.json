@@ -1,0 +1,52 @@
+[
+    {
+      "id": "123456",
+      "cover": "https://i.ibb.co/DfnSnWX/programming-script-text-coding-word.jpg",
+      "title": "The Secret Garden",
+      "author": "Alice Smith",
+      "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+      "posted_date": "2023-09-17",
+      "reading_time": 45,
+      "hashtags": ["fiction", "gardens", "mystery"]
+    },
+    {
+      "id": "789012",
+      "cover": "https://i.ibb.co/6rCW5Hn/development-growth-progress-icon-concept.jpg",
+      "title": "The Lost Treasure",
+      "author": "Bob Johnson",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+      "posted_date": "2023-09-16",
+      "reading_time": 30 ,
+      "hashtags": ["adventure", "treasure", "puzzles"]
+    },
+    {
+      "id": "345678",
+      "cover": "https://i.ibb.co/PFLHtNL/server-technology-online-internet-database-concept.jpg",
+      "title": "Time Travelers",
+      "author": "Ella Davis",
+      "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+      "posted_date": "2023-09-15",
+      "reading_time": 60 ,
+      "hashtags": ["sciencefiction", "time_travel", "fantasy"]
+    },
+    {
+      "id": "901234",
+      "cover": "https://i.ibb.co/nCDKsVb/marketing-advertising-commercial-strategy-concept.jpg",
+      "title": "Cooking Magic",
+      "author": "Sam Williams",
+      "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+      "posted_date": "2023-09-14",
+      "reading_time": 40,
+      "hashtags": ["cooking", "recipes", "magic"]
+    },
+    {
+      "id": "567890",
+      "cover": "https://i.ibb.co/gVXdy1m/business-network.jpg",
+      "title": "Under the Stars",
+      "author": "Lily Brown",
+      "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+      "posted_date": "2023-09-13",
+      "reading_time": 50 ,
+      "hashtags": ["romance", "stars", "love"]
+    }
+  ]
